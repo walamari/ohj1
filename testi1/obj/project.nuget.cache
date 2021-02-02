@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVMbFSgUWFcpPEASRtY1yt9IIMdPkSNzrA7gd5JzBfV3bRbhOniODE8smGDkJvGykwodBqSzppt1gl6//RjF4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\35850\\Documents\\GitHub\\ohj1\\testi1\\testi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35850\\.nuget\\packages\\jypeli.core\\9.1.0\\jypeli.core.9.1.0.nupkg.sha512",
+    "C:\\Users\\35850\\.nuget\\packages\\jypeli.physics2d.core\\1.5.1\\jypeli.physics2d.core.1.5.1.nupkg.sha512",
+    "C:\\Users\\35850\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\35850\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\35850\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

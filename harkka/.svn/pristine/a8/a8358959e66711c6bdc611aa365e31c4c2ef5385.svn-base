@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/MyTemp/ohj1/naytto/kähtävä/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta1.txt</SourceFile>
+  <SourceTime>2018-12-04T10:04:04.8170235+02:00</SourceTime>
+  <DestFile>C:/MyTemp/ohj1/naytto/kähtävä/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/bin/Windows/kentta1.xnb</DestFile>
+  <DestTime>2018-12-04T10:05:18.7677497+02:00</DestTime>
+  <Importer>TextFileImporter</Importer>
+  <ImporterTime>2018-08-30T18:14:34+03:00</ImporterTime>
+  <Processor>TextFileContentProcessor</Processor>
+  <ProcessorTime>2018-08-30T18:14:34+03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

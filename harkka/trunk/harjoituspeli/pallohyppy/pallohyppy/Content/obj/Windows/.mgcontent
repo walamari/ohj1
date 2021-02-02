@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/seinama.png</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta1.txt</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta2.txt</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta4.txt</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta5.txt</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/kentta3.txt</File>
+    <File>C:/kurssit/ohj1/harkka/trunk/harjoituspeli/pallohyppy/pallohyppy/Content/tahti.png</File>
+  </SourceFiles>
+</SourceFileCollection>

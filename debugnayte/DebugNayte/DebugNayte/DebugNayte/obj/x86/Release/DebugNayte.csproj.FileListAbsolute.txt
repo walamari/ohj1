@@ -1,0 +1,14 @@
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\obj\x86\Release\ResolveAssemblyReference.cache
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\bin\Release\DebugNayte.exe
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\bin\Release\DebugNayte.pdb
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\bin\Release\DebugAliohjelmat.dll
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.exe
+C:\MyTemp\mikkalle\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.pdb
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\bin\Release\DebugNayte.exe
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\bin\Release\DebugNayte.pdb
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\bin\Release\DebugAliohjelmat.dll
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.csprojAssemblyReference.cache
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.csproj.CoreCompileInputs.cache
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.csproj.CopyComplete
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.exe
+C:\kurssit\ohj1\debugnayte\DebugNayte\DebugNayte\DebugNayte\obj\x86\Release\DebugNayte.pdb
